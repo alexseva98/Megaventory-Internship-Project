@@ -27,6 +27,10 @@ When we run the script and navigate to http://localhost/megaventory/index.php ,i
 
 ![image](https://github.com/alexseva98/Megaventory-Intership-Project/assets/62871935/73db6fa1-9074-4a09-8274-470469528925) 
 
+now if we reaload the page this is the result we will get cause we trying to add the same values in the database 
+
+![image](https://github.com/alexseva98/Megaventory-Intership-Project/assets/62871935/0444e4b2-005e-47d2-924f-5e290ad2e722)
+
 
 
 
