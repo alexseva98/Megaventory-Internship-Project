@@ -32,7 +32,8 @@ now if we reaload the page this is the result we will get cause we trying to add
 ![image](https://github.com/alexseva98/Megaventory-Intership-Project/assets/62871935/0444e4b2-005e-47d2-924f-5e290ad2e722)
 
 
-(the file SevastosTest.php was an early commit without oop in mind)
+(the file SevastosTest.php was an early commit without oop in mind) 
+
 The only project that was api based that I worked before is the Postman-Project
 
 
