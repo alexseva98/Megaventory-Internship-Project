@@ -21,4 +21,10 @@ and to update the stock of the 2 products that we created at 5 units
  
 ![image](https://github.com/alexseva98/Megaventory-Intership-Project/assets/62871935/fba6f149-e950-4fc0-802f-8fb84086a5d5) 
 
+When we run the script and navigate to http://localhost/megaventory/index.php ,if the entries arent allready present in the database we get this result
+
+![image](https://github.com/alexseva98/Megaventory-Intership-Project/assets/62871935/73db6fa1-9074-4a09-8274-470469528925) 
+
+
+
 
