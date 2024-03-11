@@ -3,7 +3,10 @@ In this project I used php and you will need xampp to run it,the file must be in
 
 the index.php file is our main page 
 
-to run the script you must go to http://localhost/megaventory/index.php , megaventory is my projects folder 
+to run the script you must go to http://localhost/megaventory/index.php 
+
+megaventory is my projects folder that contains the index.php and the folder Classes
+that contains the external Classes:Product, SupplierClient and InventoryLocation
 
 The following 5 objects are calling their respective create method to create new entries in the megaventory database 
 
